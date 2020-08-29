@@ -1,0 +1,46 @@
+body{
+    margin: 0 auto;
+    width: 1024px;
+}
+
+.header-wrap{
+    display: flex;
+    justify-content: space-between;
+}
+
+form{
+    display: flex;
+    justify-content: space-around;
+    margin: 20px;
+}
+
+input {
+    padding: 5px;
+}
+
+.container{
+    display: flex;
+    width: 100%;
+}
+
+h1 {
+    margin: 0;
+    font-size: 55px;
+}
+
+table {
+    margin: 0 auto;
+}
+
+header{
+    padding: 20px;
+    background-color: #e6e7f6;
+    margin: 0 0 10px 0;
+}
+
+footer {
+    padding: 20px;
+    background-color: #e6e7f6;
+    margin: 10px 0 0 0;
+}
+
